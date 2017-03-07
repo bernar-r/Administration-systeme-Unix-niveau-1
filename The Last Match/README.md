@@ -5,3 +5,6 @@ Chaque joueur peut prendre, sur la même ligne, une ou plusieurs allumettes.
 Le perdant est celui qui prend la dernière allumette.  
 
 Execution : thelastmatch.sh "x nombre"
+
+
+Possibilite de jouer contre une IA 
