@@ -1,9 +1,5 @@
-Ce projet est basé sur le célèbre jeu du "matchsticks".
-Il y a un certain nombre de lignes d'allumettes.
-Deux joueurs jouent chacun leur tour.
-Chaque joueur peut prendre, sur la même ligne, une ou plusieurs allumettes.
-Le perdant est celui qui prend la dernière allumette.
+# Administration-systeme-Unix-niveau-1
 
-Bonus :
-Une IA avec plusieurs difficultés
-Un mode humain vs humain
+
+The Last match : Ce projet est basé sur le célèbre jeu du "matchsticks".
+Piscine etna sont les différents exercices réalisé pendant la période de piscine de l'ETNA.
